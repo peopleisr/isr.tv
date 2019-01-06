@@ -66,12 +66,16 @@ http://edge1.il.kab.tv/rtplive/kabtv-rus-medium.stream/chunklist_w1744836228.m3u
 #EXTINF:0, מוסיוף ערוץ
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 
+#EXTINF:0,כותל ירושלים 
+https://videos3.earthcam.com/fecnetwork/7949.flv/chunklist_w1456126518.m3u8
+
 
 #EXTINF:0,Иерусалим Котель
  rtmp://CA15.cast-tv.com/23595_LIVE_Kotel_Live//23595_LIVE_Kotel_Live
-#EXTINF:0,Котель Синагога
+
+#EXTINF:0,כותל בית קנסת 
  
 http://EU40.cast-tv.com:1935/23595_LIVE_Kotel_LIVE2/23595_LIVE_Kotel_LIVE2/playlist.m3u8
-#EXTINF:0,Иерусалим - Стена Плача
 
+#EXTINF:0, ירושלים כתל מערבי  
 http://ca15.cast-tv.com:1935/23595_LIVE_Kotel_Live1/_definst_//23595_LIVE_Kotel_Live1/playlist.m3u8
