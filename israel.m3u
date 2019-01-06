@@ -1,0 +1,80 @@
+
+
+#EXTM3U
+#EXTM3U: Israel
+#EXTINF:,9 Израиль
+http://50.7.180.50:8081/9_izrail/index.m3u8?wmsAuthSign=1e179ee09ebb842bc7ff414ad890ec17-1545055184-08i971i75i312
+  
+#EXTINF:0,iLand HD
+https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/chunklist_w1202104227_b1496000.m3u8
+
+#EXTINF:-1,Ch 13 Reshet
+http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
+
+#EXTINF:-1, Aruz 10
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:0, 11 כאן
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_600/chunklist.m3u8
+
+
+#EXTINF:0, 14 עשר
+
+
+ http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b2400000.m3u8
+
+#EXTINF:0,כאן חינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
+
+
+
+#EXTINF:0,Aruz 20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
+
+#EXTINF:0,99 Aruz Haknesset
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+
+#EXTINF:0,21 Arutz Hakniyot
+rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
+
+#EXTINF:0,24 Music
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+
+#EXTINF:-1 tvg-logo=”https://s29.postimg.org/4pfa0m3qf/aroz22.png", Arutz Hadashot
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+
+
+
+#EXTINF:0,ערוץ 12 
+https://5b2d5fd1a710b.streamlock.net:44443/chan/smil:12uyt.smil/chunklist_w1682172305_b700000_tkdG9rZW5zdGFydHRpbWU9MTU0Njc4NjM3MCZ0b2tlbmVuZHRpbWU9MTU0Njc4OTk3MCZ0b2tlbmhhc2g9TkFtc2N5YkpaakNRcXNaUEtxQ2NXdTVZWURiYTdZZTk5QnVNOTQwd0lqYz0=.m3u8
+
+#EXTINF:0, ערוץ סםורט 1
+http://ul.cdn584.net:8080/hls/zezvjlv.m3u8?s=kKasC9tqUPoM_I3nnpGutg&e=1546802251
+
+#EXTINF:0,ערוץ ספורט 2
+http://ul.cdn584.net:8080/hls/wb4zq32.m3u8?s=E4RDdVtwKyWCJ22MJKhFbg&e=1546809340
+
+#EXTINF:0,ערוץ ספורט 5
+http://ul.cdn584.net:8080/hls/vqq4saw.m3u8?s=hsZ7g0ZVcAYpW3GyB521Tg&e=1546809641
+
+
+#EXTINF:0,ynet_tv 
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&amp;rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:0,ערוץ הידברות 
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+
+#EXTINF:0,канал Кабала (иврит) 
+http://edge1.il.kab.tv/rtplive/tv66-heb-medium.stream/chunklist_w1815442055.m3u8
+
+#EXTINF:0,канал Кабала (русский)
+http://edge1.il.kab.tv/rtplive/kabtv-rus-medium.stream/chunklist_w1744836228.m3u8
+
+
+#EXTINF:0,Иерусалим Котель
+ rtmp://CA15.cast-tv.com/23595_LIVE_Kotel_Live//23595_LIVE_Kotel_Live
+#EXTINF:0,Котель Синагога
+ 
+http://EU40.cast-tv.com:1935/23595_LIVE_Kotel_LIVE2/23595_LIVE_Kotel_LIVE2/playlist.m3u8
+#EXTINF:0,Иерусалим - Стена Плача
+
+http://ca15.cast-tv.com:1935/23595_LIVE_Kotel_Live1/_definst_//23595_LIVE_Kotel_Live1/playlist.m3u8
