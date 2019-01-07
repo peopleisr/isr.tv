@@ -70,12 +70,12 @@ http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 https://videos3.earthcam.com/fecnetwork/7949.flv/chunklist_w1456126518.m3u8
 
 
-#EXTINF:0,Иерусалим Котель
+#EXTINF:0,ירושלים כותל 
  rtmp://CA15.cast-tv.com/23595_LIVE_Kotel_Live//23595_LIVE_Kotel_Live
 
-#EXTINF:0,כותל בית קנסת 
+#EXTINF:0, כותל בית כנסת 
  
 http://EU40.cast-tv.com:1935/23595_LIVE_Kotel_LIVE2/23595_LIVE_Kotel_LIVE2/playlist.m3u8
 
-#EXTINF:0, ירושלים כתל מערבי  
+#EXTINF:0,  כתל מערבי  
 http://ca15.cast-tv.com:1935/23595_LIVE_Kotel_Live1/_definst_//23595_LIVE_Kotel_Live1/playlist.m3u8
