@@ -3,7 +3,6 @@
 #EXTINF:,9 Израиль
 http://50.7.180.50:8081/9_izrail/index.m3u8?wmsAuthSign=1e179ee09ebb842bc7ff414ad890ec17-1545055184-08i971i75i312
   
-#EXTINF:0,iLand HD
 https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/chunklist_w1202104227_b1496000.m3u8
 
 #EXTINF:0, 11 כאן
@@ -42,15 +41,12 @@ https://31-168-228-117.vidnt.com/walla_ulpanRepeat/_definst_/smil:ulpan.smil/chu
 https://5b2d5fd1a710b.streamlock.net:44443/chan/smil:12uyt.smil/chunklist_w1436230813_b700000_tkdG9rZW5zdGFydHRpbWU9MTU0Njg2NTU5MCZ0b2tlbmVuZHRpbWU9MTU0Njg2OTE5MCZ0b2tlbmhhc2g9bE5Ebmd0Z01BaU16SXBKYTZCU3JRYllUQkRDSmNSdTVrcnQwZ0JjYXg5UT0=.m3u8
 
 #EXTINF:0, ערוץ ספורט 1
-http://ul.cdn584.net:8080/hls/zezvjlv.m3u8?s=kKasC9tqUPoM_I3nnpGutg&e=1546802251
-
+http://ul.cdn584.net:8080/hls/zezvjlv.m3u8?s=GeZ-0lSF2iffpcJSz1MrCQ&e=1546930481
 #EXTINF:0,ערוץ ספורט 2
-
-http://ul.cdn584.net:8080/hls/wb4zq32.m3u8?s=ZGe8b1pi3ECziNFDH45FXA&e=1546885948
-
+http://ul.cdn584.net:8080/hls/wb4zq32.m3u8?s=055_PHZ5NbvyYO3WKmOi8g&e=1546930587
 #EXTINF:0,ערוץ ספורט 5
-http://ul.cdn584.net:8080/hls/vqq4saw.m3u8?s=Z6EBaaLVyxLpi_XAZixKZw&e=1546886393
 
+http://ul.cdn584.net:8080/hls/vqq4saw.m3u8?s=6tG4fVgAPcO30Go07K1VdA&e=1546930658
 
 #EXTINF:0,ynet_tv 
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&amp;rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0
