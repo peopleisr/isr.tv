@@ -1,7 +1,8 @@
 
+
 #EXTM3U 
 
-#EXTINF:0 tvg-id="Channel9.il" group-title="Израильские",Channel 9 HD 
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="Channel9.il",9 (Израиль +)
 http://50.7.180.50:8081/9_izrail/index.m3u8?wmsAuthSign=1e179ee09ebb842bc7ff414ad890ec17-1545055184-08i971i75i312
   
 #EXTINF:-1 tvg-id="ILand" tvg-name="ILand" group-title="Israel - עולם" tvg-logo="https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s100-c-k-no/photo.jpg",ILand
@@ -32,7 +33,7 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?
 
 
-#EXTINF:0 tvg-id="Music24.il" group-title="Израильские",Music 24
+#EXTINF:-1 tvg-id="ערוץ המוזיקה" tvg-name="ערוץ_המוזיקה" group-title="Israel - עולם" tvg-logo="http://www.nrg.co.il/images/archive/300x225/859/687.jpg",ערוץ המוזיקה
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/a0/fd/e23f51784878413.jpg" group-title="עידן+", ch חברת החדשות חי 
