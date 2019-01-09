@@ -1,7 +1,7 @@
 
-
 #EXTM3U 
-#EXTINF:-1 tvg-id="Channel9.il" tvg-name="Channel9.il" group-title="TV Каналы" tvg-logo="http://195.140.213.129/logos/9.png
+
+#EXTINF:0 tvg-id="Channel9.il" group-title="Израильские",Channel 9 HD 
 http://50.7.180.50:8081/9_izrail/index.m3u8?wmsAuthSign=1e179ee09ebb842bc7ff414ad890ec17-1545055184-08i971i75i312
   
 #EXTINF:-1 tvg-id="ILand" tvg-name="ILand" group-title="Israel - עולם" tvg-logo="https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s100-c-k-no/photo.jpg",ILand
@@ -31,7 +31,8 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="21 ערוץ הקניות" tvg-logo="http://thumbs2.imagebam.com/01/9b/25/afe543833363533.jpg" group-title="עידן+",ch 21 ערוץ הקניות
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?
 
-#EXTINF:-1 tvg-id="24.il" tvg-name="24.il" tvg-type="live",Music 24 
+
+#EXTINF:0 tvg-id="Music24.il" group-title="Израильские",Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/a0/fd/e23f51784878413.jpg" group-title="עידן+", ch חברת החדשות חי 
@@ -56,29 +57,35 @@ http://ul.cdn584.net:8080/hls/vqq4saw.m3u8?s=Z6EBaaLVyxLpi_XAZixKZw&e=1546886393
 #EXTINF:-1 tvg-id="" tvg-name="Ynet Live" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/ynet.jpg" group-title="עידן+", Ynet Live
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0
 
-#EXTINF:0,ערוץ הידברות 
+#EXTINF:-1 tvg-id="hidabrot.il" tvg-name="hidabrot.il" tvg-type="live",Hidabrot 
 https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+
 #EXTINF:-1 tvg-id="33" tvg-name="כאן 33" tvg-logo="http://thumbs2.imagebam.com/7f/c9/59/47d865784878303.jpg" group-title="עידן+",ch 33 מכאן
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_4k/chunklist.m3u8|User-Agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)
 
 #EXTINF:0 group-title="TV Каналы" tvg-logo="http://iptv.israstyle.ru/logo/7heb.jpg",канал Кабала (иврит)
 http://edge1.il.kab.tv/rtplive/tv66-heb-medium.stream/chunklist_w1815442055.m3u8 
+
 #EXTINF:0 group-title="TV Каналы" tvg-logo="http://iptv.israstyle.ru/logo/7rus.jpg",канал Кабала (русский)
 http://edge1.il.kab.tv/rtplive/kabtv-rus-medium.stream/chunklist_w1744836228.m3u8
+
 
 #EXTINF:0, מוסיוף ערוץ
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 
-#EXTINF:0,כותל ירושלים 
+#EXTINF:0 group-title="Вэб Камеры" tvg-logo="http://iptv.israstyle.ru/logo/kotel1.jpg", Иерусалим Котель
+
+rtmp://CA15.cast-tv.com/23595_LIVE_Kotel_Live//23595_LIVE_Kotel_Live
+
+#EXTINF:0 group-title="Вэб Камеры" tvg-logo="http://iptv.israstyle.ru/logo/kotel2.jpg", Котель Синагога
+
+http://EU40.cast-tv.com:1935/23595_LIVE_Kotel_LIVE2/23595_LIVE_Kotel_LIVE2/playlist.m3u8
+
+
+
+#EXTINF:0 group-title="Вэб Камеры" tvg-logo="http://iptv.israstyle.ru/logo/kotel1.jpg", כותל ירושלים 
 https://videos3.earthcam.com/fecnetwork/7949.flv/chunklist_w1456126518.m3u8
 
 
-#EXTINF:0,ירושלים כותל 
- rtmp://CA15.cast-tv.com/23595_LIVE_Kotel_Live//23595_LIVE_Kotel_Live
-
-#EXTINF:0, כותל בית כנסת 
- 
-http://EU40.cast-tv.com:1935/23595_LIVE_Kotel_LIVE2/23595_LIVE_Kotel_LIVE2/playlist.m3u8
-
-#EXTINF:0,  כתל מערבי  
+#EXTINF:0 group-title="Вэб Камеры" tvg-logo="http://iptv.israstyle.ru/logo/kotel1.jpg",  כתל מערבי  
 http://ca15.cast-tv.com:1935/23595_LIVE_Kotel_Live1/_definst_//23595_LIVE_Kotel_Live1/playlist.m3u8
