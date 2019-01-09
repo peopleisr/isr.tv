@@ -53,8 +53,9 @@ http://ul.cdn584.net:8080/hls/wb4zq32.m3u8?s=JcDzV7XIWxrNukJT6-svJQ&e=1547049219
 http://ul.cdn584.net:8080/hls/vqq4saw.m3u8?s=Z6EBaaLVyxLpi_XAZixKZw&e=1546886393
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Ynet Live" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/ynet.jpg" group-title="עידן+", Ynet Live
+#EXTINF:-1 tvg-id="Ynet Live" tvg-name="Ynet_Live" group-title="Israel - עולם" tvg-logo="http://www.ynet.co.il/images/CENTRAL_1024_ynet_logo.png",Ynet Live
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0
+
 #EXTINF:-1 tvg-id="ערוץ ההידברות" tvg-name="ערוץ_ההידברות" group-title="Israel - עולם" tvg-logo="http://www.tvland.co.il/Pics/hidabrutbig.jpg",ערוץ ההידברות
 https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
 
