@@ -1,141 +1,95 @@
-Skip to content
-￼
-Search or jump to…
-￼
-Pull requests
-Issues
-Marketplace
-Explore
-￼￼ Sign out
- Watch 0
-￼ Star 0  Fork 0 peopleisr/isr.tv
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-isr.tv/￼
-israel.m3u
-  or cancel
-￼ Edit file  ￼ Preview changes Indent mode￼ Indent size￼ Line wrap mode￼
-1
-​
-2
+
 #EXTM3U 
-3
-#EXTINF: -1 tvg-id = "Channel9.il" tvg-name = "Channel9.il" group-title = "TV Каналы" tvg-logo = "http://iptv.israstyle.ru/logo/9. JPG», 9-+ Израиль
-4
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="Channel9.il" group-title="TV Каналы" tvg-logo="http://iptv.israstyle.ru/logo/9.jpg",9-Израиль+
 http://50.7.180.50:8081/9_izrail/index.m3u8?wmsAuthSign=1e179ee09ebb842bc7ff414ad890ec17-1545055184-08i971i75i312
-5
   
-6
-#EXTINF: -1 tvg-id = "ILand" tvg-name = "ILand" group-title = "Израиль - עולם" tvg-logo = "https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/ не wZTKn8Ip81o / s100-ск-нет / photo.jpg», Iland
-7
+#EXTINF:-1 tvg-id="ILand" tvg-name="ILand" group-title="Israel - עולם" tvg-logo="https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s100-c-k-no/photo.jpg",ILand
 https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/chunklist_w1202104227_b1496000.m3u8
-8
-​
-9
-#EXTINF: -1 tvg-id = "11" tvg-name = "כאן 11" tvg-logo = "http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title = " עידן + ", гл. 11 כאן
-10
+
+#EXTINF:-1 tvg-id="11" tvg-name="כאן 11" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+",ch 11 כאן
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_600/chunklist.m3u8
-11
-​
-12
-​
-13
-#EXTINF: -1 tvg-id = "13" tvg-name = "13 русский" tvg-logo = "http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title = " עידן + ", гл. 13 רשת
-14
-http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
-15
-​
-16
-#EXTINF: -1 tvg-id = "14" tvg-name = "10 עשר" tvg-logo = "http://thumbs2.imagebam.com/cc/c5/31/33479b784878593.jpg" group-title = " עידן + ", гл. 14 עשר
-17
-http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
-18
-​
-19
-​
-20
-#EXTINF: -1 tvg-id = "23" tvg-name = "23 החינוכית" tvg-logo = "https://storage.googleapis.com/openscreenshot/7/_/1/H1WUfc1_7.png" group-title = "עידן +", гл. 23
-21
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
-22
-​
-23
-​
-24
-#EXTINF: -1 tvg-id = "20" tvg-name = "ערוץ 20" tvg-logo = "http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg" group-title = " עידן + ", ch 20 מורשת
-25
-http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
-26
-​
-27
-#EXTINF: -1 tvg-id = "ערוץ הכנסת" tvg-name = "ערוץ_הכנסת" group-title = "Израиль - עולם" tvg-logo = "http://www.aisrael.org/_uploads/extraimg/000000000 ( 2) (1) .jpg ", ערוץ הכנסת
-28
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-29
-​
-30
-#EXTINF: -1 tvg-id = "21" tvg-name = "21 ערוץ הקניות" tvg-logo = "http://thumbs2.imagebam.com/01/9b/25/afe543833363533.jpg" group-title = "עידן +", гл. 21 ערוץ הקניות
-31
-http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?
-32
-​
-33
-​
-34
-#EXTINF:-1 tvg-id="ערוץ המוזיקה" tvg-name="ערוץ_המוזיקה" group-title="Israel - עולם" tvg-logo="http://www.nrg.co.il/images/archive/300x225/859/687.jpg",ערוץ המוזיקה
-35
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-36
-​
-37
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/a0/fd/e23f51784878413.jpg" group-title="עידן+", ch חברת החדשות חי 
-38
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-39
-​
-40
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tgCXYYx.jpg" group-title="עידן+", ch וואלה!NEWS 
-41
-https://31-168-228-117.vidnt.com/walla_ulpanRepeat/_definst_/smil:ulpan.smil/chunklist_w1972474775_b828000.m3u8
-42
-​
-43
+
 #EXTINF:-1 tvg-id="12" tvg-name="12 קשת" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="עידן+",ch 12 קשת
-44
-https://5b2d5fd1a710b.streamlock.net:44443/chan/smil:12uyt.smil/chunklist_w1469183225_b700000_tkdG9rZW5zdGFydHRpbWU9MTU0Njk5ODY2MiZ0b2tlbmVuZHRpbWU9MTU0NzAwMjI2MiZ0b2tlbmhhc2g9RjRVY3BqMFg3R09hNnFrVTFBeEZyQUhrN013cXYzbDBhZk43bDI4ZXRTUT0=.m3u8
-45
-​
-46
-#EXTINF:0 tvg-id="Sport1HD.il" group-title="Израильские",Sport 1 
-47
-http://ul.cdn584.net:8080/hls/zezvjlv.m3u8?s=kKasC9tqUPoM_I3nnpGutg&e=1546802251
-48
-​
-49
-#EXTINF:0 tvg-id="Sport2.il" group-title="Израильские",SPORT 2 
-50
-http://ul.cdn584.net:8080/hls/wb4zq32.m3u8?s=JcDzV7XIWxrNukJT6-svJQ&e=1547049219
-51
-​
-￼
-Commit changes
-Commit summary￼
-Update israel.m3u
-Optional extended description
-￼
-Add an optional extended description…
-￼ Commit directly to the master branch.
-￼ Create a new branch for this commit and start a pull request. Learn more about pull requests.
-￼ Commit changes  Cancel
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.￼￼￼￼
+https://5b2d5fd1a710b.streamlock.net:44443/chan/smil:12uyt.smil/chunklist_w1713719859_b700000_tkdG9rZW5zdGFydHRpbWU9MTU0NzI2MTEzOCZ0b2tlbmVuZHRpbWU9MTU0NzI2NDczOCZ0b2tlbmhhc2g9MVpPNDNLaVdsWXlFQlJMX011Wms3YXNKSkxicmh5dWgtSTl4RVJmVlhpST0=.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="13 רשת" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="עידן+",ch 13 רשת
+http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
+
+#EXTINF:-1  tvg-id="14" tvg-name="10 עשר" tvg-logo="http://thumbs2.imagebam.com/cc/c5/31/33479b784878593.jpg" group-title="עידן+",ch 14 עשר
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="23" tvg-name="23 החינוכית" tvg-logo="https://storage.googleapis.com/openscreenshot/7/_/1/H1WUfc1_7.png" group-title="עידן+",ch 23
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="20" tvg-name="ערוץ 20" tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg" group-title="עידן+",ch 20 מורשת
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ערוץ הכנסת" tvg-name="ערוץ_הכנסת" group-title="Israel - עולם" tvg-logo="http://www.aisrael.org/_uploads/extraimg/000000000(2)(1).jpg",ערוץ הכנסת
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-name="21 ערוץ הקניות" tvg-logo="http://thumbs2.imagebam.com/01/9b/25/afe543833363533.jpg" group-title="עידן+",ch 21 ערוץ הקניות
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?
+
+
+#EXTINF:-1 tvg-id="ערוץ המוזיקה" tvg-name="ערוץ_המוזיקה" group-title="Israel - עולם" tvg-logo="http://www.nrg.co.il/images/archive/300x225/859/687.jpg",ערוץ המוזיקה
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/a0/fd/e23f51784878413.jpg" group-title="עידן+", ch חברת החדשות חי 
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tgCXYYx.jpg" group-title="עידן+", ch וואלה!NEWS 
+https://31-168-228-117.vidnt.com/walla_ulpanRepeat/_definst_/smil:ulpan.smil/chunklist_w1972474775_b828000.m3u8
+
+
+#EXTINF:0 tvg-id="Sport1HD.il" group-title="Sport" ספורט 1 
+http://ul.cdn584.net:8080/hls/zezvjlv.m3u8?s=TeEkKjHcaGaxkXJ9tE_69A&e=1547282157
+
+
+#EXTINF:0 tvg-id="Sport2.il" group-title="Sport",ספורט 2 
+http://ul.cdn584.net:8080/hls/wb4zq32.m3u8?s=4nliaD7Jnd9-t3gvQ-rp0g&e=1547221346
+
+#EXTINF:0 tvg-id="Sport5HD.il" group-title="Sport",ספורט 5 
+http://ul.cdn584.net:8080/hls/vqq4saw.m3u8?s=z7L_xhqofrAqwCeM4HTQgA&e=1547282413
+
+
+
+
+#EXTINF:-1 tvg-id="Ynet Live" tvg-name="Ynet_Live" group-title="Israel - עולם" tvg-logo="http://www.ynet.co.il/images/CENTRAL_1024_ynet_logo.png",Ynet Live
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1 tvg-id="ערוץ ההידברות" tvg-name="ערוץ_ההידברות" group-title="Israel - עולם" tvg-logo="http://www.tvland.co.il/Pics/hidabrutbig.jpg",ערוץ ההידברות
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="כאן 33" tvg-logo="http://thumbs2.imagebam.com/7f/c9/59/47d865784878303.jpg" group-title="עידן+",ch 33 מכאן
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_4k/chunklist.m3u8|User-Agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)
+
+#EXTINF:0 group-title="TV Каналы" tvg-logo="http://iptv.israstyle.ru/logo/7heb.jpg",ערוץ קבלה (יעברית)
+http://edge1.il.kab.tv/rtplive/tv66-heb-medium.stream/chunklist_w1815442055.m3u8 
+
+#EXTINF:0 group-title="TV Каналы" tvg-logo="http://iptv.israstyle.ru/logo/7rus.jpg",ערוץ קבלה (רוסית)
+http://edge1.il.kab.tv/rtplive/kabtv-rus-medium.stream/chunklist_w1744836228.m3u8
+
+
+#EXTINF:0, מוסאיוף 
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="Вэб Камеры" tvg-logo="http://iptv.israstyle.ru/logo/kotel1.jpg", Иерусалим Котель
+
+rtmp://CA15.cast-tv.com/23595_LIVE_Kotel_Live//23595_LIVE_Kotel_Live
+
+#EXTINF:0 group-title="Вэб Камеры" tvg-logo="http://iptv.israstyle.ru/logo/kotel2.jpg", Котель Синагога
+
+http://EU40.cast-tv.com:1935/23595_LIVE_Kotel_LIVE2/23595_LIVE_Kotel_LIVE2/playlist.m3u8
+
+
+
+#EXTINF:0 group-title="Вэб Камеры" tvg-logo="http://iptv.israstyle.ru/logo/kotel1.jpg", כותל ירושלים 
+https://videos3.earthcam.com/fecnetwork/7949.flv/chunklist_w1456126518.m3u8
+
+#EXTINF:0 group-title="Вэб Камеры" tvg-logo="http://iptv.israstyle.ru/logo/kotel1.jpg",Вид на мечеть Аль-Акса
+https://videos3.earthcam.com/fecnetwork/7949.flv/chunklist_w1186353202.m3u8
+
+#EXTINF:0 group-title="Вэб Камеры" tvg-logo="http://iptv.israstyle.ru/logo/kotel1.jpg",  כתל מערבי  
+http://ca15.cast-tv.com:1935/23595_LIVE_Kotel_Live1/_definst_//23595_LIVE_Kotel_Live1/playlist.m3u8
