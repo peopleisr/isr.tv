@@ -10,7 +10,7 @@ https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/chunklist_w1202104227_b14960
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_600/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-name="12 קשת" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="עידן+",ch 12 קשת
-https://5b2d5fd1a710b.streamlock.net:44443/chan/smil:12uyt.smil/chunklist_w1713719859_b700000_tkdG9rZW5zdGFydHRpbWU9MTU0NzI2MTEzOCZ0b2tlbmVuZHRpbWU9MTU0NzI2NDczOCZ0b2tlbmhhc2g9MVpPNDNLaVdsWXlFQlJMX011Wms3YXNKSkxicmh5dWgtSTl4RVJmVlhpST0=.m3u8
+https://5b2d5fd1a710b.streamlock.net:44443/chan/smil:12lopjh.smil/chunklist_w907632172_b700000_tkdG9rZW5zdGFydHRpbWU9MTU0Nzk4ODE5MyZ0b2tlbmVuZHRpbWU9MTU0Nzk5MTc5MyZ0b2tlbmhhc2g9TVZzaU9nQ2FLOHBfLXJ5WXdlLUZKM20wM2Rpa0M5ajRYMm9zdXNpdnBNOD0=.m3u8
 
 #EXTINF:-1 tvg-id="13" tvg-name="13 רשת" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="עידן+",ch 13 רשת
 http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
@@ -43,16 +43,6 @@ http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 https://31-168-228-117.vidnt.com/walla_ulpanRepeat/_definst_/smil:ulpan.smil/chunklist_w1972474775_b828000.m3u8
 
 
-#EXTINF:0 tvg-id="Sport1HD.il" group-title="Sport" ספורט 1 
-http://ul.cdn584.net:8080/hls/zezvjlv.m3u8?s=KBFi8soUPSb0ugotSJ3HrA&e=1547332603
-
-
-
-#EXTINF:0 tvg-id="Sport2.il" group-title="Sport",ספורט 2 
-http://ul.cdn584.net:8080/hls/wb4zq32.m3u8?s=4nliaD7Jnd9-t3gvQ-rp0g&e=1547221346
-
-#EXTINF:0 tvg-id="Sport5HD.il" group-title="Sport",ספורט 5 
-http://ul.cdn584.net:8080/hls/vqq4saw.m3u8?s=3zi4l-Mg4utvC9dDeTx70A&e=1547332476
 
 
 
@@ -94,3 +84,5 @@ https://videos3.earthcam.com/fecnetwork/7949.flv/chunklist_w1186353202.m3u8
 
 #EXTINF:0 group-title="Вэб Камеры" tvg-logo="http://iptv.israstyle.ru/logo/kotel1.jpg",  כתל מערבי  
 http://ca15.cast-tv.com:1935/23595_LIVE_Kotel_Live1/_definst_//23595_LIVE_Kotel_Live1/playlist.m3u8
+#EXTINF:0 group-title="Вэб Камеры" Tel-Aviv 
+https://edge01.balticlivecam.com/blc/Israel1/index.m3u8?token=f296960d8603913057289e502362016a:1547987827040
