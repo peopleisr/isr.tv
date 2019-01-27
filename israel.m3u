@@ -6,65 +6,63 @@ http://50.7.180.50:8081/9_izrail/index.m3u8?wmsAuthSign=1e179ee09ebb842bc7ff414a
 #EXTINF:-1 tvg-id="ILand" tvg-name="ILand" group-title="Israel - עולם" tvg-logo="https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s100-c-k-no/photo.jpg",ILand
 https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/chunklist_w1202104227_b1496000.m3u8
 
+#EXTINF:-1,IL: ONE II [VIP]
+http://ul.cdn584.net:8080/hls/h4gpo1c.m3u8?s=79at2aEoSb5u6w0eF0zGVg&e=1548583466
+
+#EXTINF:-1,IL: Sport 5 HD
+http://ul.cdn584.net:8080/hls/vqq4saw.m3u8?s=ninbK9vGCJmoPk1NWmeM_Q&e=1548583892
+ 
 #EXTINF:-1 tvg-id="11" tvg-name="כאן 11" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+",ch 11 כאן
-https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_600/chunklist.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_4k/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0
 
 #EXTINF:-1 tvg-id="12" tvg-name="12 קשת" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="עידן+",ch 12 קשת
-https://5b2d5fd1a710b.streamlock.net:44443/chan/smil:12lopjh.smil/chunklist_w907632172_b700000_tkdG9rZW5zdGFydHRpbWU9MTU0Nzk4ODE5MyZ0b2tlbmVuZHRpbWU9MTU0Nzk5MTc5MyZ0b2tlbmhhc2g9TVZzaU9nQ2FLOHBfLXJ5WXdlLUZKM20wM2Rpa0M5ajRYMm9zdXNpdnBNOD0=.m3u8
+http://localhost:60666/?plugin://plugin.video.idanplus/?mode=5&url=ch_12
 
 #EXTINF:-1 tvg-id="13" tvg-name="13 רשת" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="עידן+",ch 13 רשת
-http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_1.m3u8
-
-#EXTINF:-1  tvg-id="14" tvg-name="10 עשר" tvg-logo="http://thumbs2.imagebam.com/cc/c5/31/33479b784878593.jpg" group-title="עידן+",ch 14 עשר
-http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="23" tvg-name="23 החינוכית" tvg-logo="https://storage.googleapis.com/openscreenshot/7/_/1/H1WUfc1_7.png" group-title="עידן+",ch 23
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
-
-
+https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36&Referer=http://reshet.tv/live/
+ 
+#EXTINF:-1 tvg-id="14" tvg-name="10 עשר" tvg-logo="http://thumbs2.imagebam.com/cc/c5/31/33479b784878593.jpg" group-title="עידן+",ch 14 רשת-עשר
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b2400000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+ 
 #EXTINF:-1 tvg-id="20" tvg-name="ערוץ 20" tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg" group-title="עידן+",ch 20 מורשת
-http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
-
-#EXTINF:-1 tvg-id="ערוץ הכנסת" tvg-name="ערוץ_הכנסת" group-title="Israel - עולם" tvg-logo="http://www.aisrael.org/_uploads/extraimg/000000000(2)(1).jpg",ערוץ הכנסת
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 5.1; rv:40.0) Gecko/20100101 Firefox/40.0
 
 #EXTINF:-1 tvg-id="21" tvg-name="21 ערוץ הקניות" tvg-logo="http://thumbs2.imagebam.com/01/9b/25/afe543833363533.jpg" group-title="עידן+",ch 21 ערוץ הקניות
-http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?ttl=1524643697&cdn_token=5a6c4f1270440ae72118c8ae16c58de4|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18
 
+#EXTINF:-1 tvg-id="23" tvg-name="23 החינוכית" tvg-logo="https://storage.googleapis.com/openscreenshot/7/_/1/H1WUfc1_7.png" group-title="עידן+",ch 23 החינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_4k/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
 
-#EXTINF:-1 tvg-id="ערוץ המוזיקה" tvg-name="ערוץ_המוזיקה" group-title="Israel - עולם" tvg-logo="http://www.nrg.co.il/images/archive/300x225/859/687.jpg",ערוץ המוזיקה
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="http://thumbs2.imagebam.com/ec/75/53/eb02a3784877443.jpg" group-title="עידן+",ch 24
+http://localhost:60666/?plugin://plugin.video.idanplus/?mode=5&url=ch_24
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/a0/fd/e23f51784878413.jpg" group-title="עידן+", ch חברת החדשות חי 
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tgCXYYx.jpg" group-title="עידן+", ch וואלה!NEWS 
-https://31-168-228-117.vidnt.com/walla_ulpanRepeat/_definst_/smil:ulpan.smil/chunklist_w1972474775_b828000.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Ynet Live" tvg-name="Ynet_Live" group-title="Israel - עולם" tvg-logo="http://www.ynet.co.il/images/CENTRAL_1024_ynet_logo.png",Ynet Live
-https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0
-
-#EXTINF:-1 tvg-id="ערוץ ההידברות" tvg-name="ערוץ_ההידברות" group-title="Israel - עולם" tvg-logo="http://www.tvland.co.il/Pics/hidabrutbig.jpg",ערוץ ההידברות
-https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="26" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/bb.jpg" group-title="עידן+",ch 26 האח הגדול
+https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/chunklist_b3682304.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36&Referer=https://reshet.tv/home/bb-livestream/
 
 #EXTINF:-1 tvg-id="33" tvg-name="כאן 33" tvg-logo="http://thumbs2.imagebam.com/7f/c9/59/47d865784878303.jpg" group-title="עידן+",ch 33 מכאן
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_4k/chunklist.m3u8|User-Agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)
 
-#EXTINF:0 group-title="TV Каналы" tvg-logo="http://iptv.israstyle.ru/logo/7heb.jpg",ערוץ קבלה (יעברית)
-http://edge1.il.kab.tv/rtplive/tv66-heb-medium.stream/chunklist_w1815442055.m3u8 
+#EXTINF:-1 tvg-id="99" tvg-name="99 ערוץ הכנסת" tvg-logo="http://thumbs2.imagebam.com/83/d6/c4/66b29e784878143.jpg" group-title="עידן+",ch 99 הכנסת
+https://w1.013.gostreaming.tv/Knesset/myStream/chunklist_w618391750.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
 
-#EXTINF:0 group-title="TV Каналы" tvg-logo="http://iptv.israstyle.ru/logo/7rus.jpg",ערוץ קבלה (רוסית)
-http://edge1.il.kab.tv/rtplive/kabtv-rus-medium.stream/chunklist_w1744836228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ynet Live" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/ynet.jpg" group-title="עידן+", Ynet Live
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/a0/fd/e23f51784878413.jpg" group-title="עידן+",ch חברת החדשות חי  
+http://ch2live-i.akamaihd.net/hls/live/252343/hls1_44_1496/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/a0/fd/e23f51784878413.jpg" group-title="עידן+",ch ערוץ החדשות 
+http://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/neveilan02/chunklist_b1908736.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36&Referer=http://reshet.tv/home/live-news/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tgCXYYx.jpg" group-title="עידן+",ch וואלה!NEWS 
+https://31-168-228-117.vidnt.com/walla_ulpanRepeat/_definst_/smil:ulpan.smil/chunklist_w1972474775_b828000.m3u8
 
 
-#EXTINF:0, מוסאיוף 
-http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="2025" tvg-name="" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/2025.jpg" group-title="עידן++",קשת 2025
+http://makostore-vh.akamaihd.net/i/SHORT/TV/Programs/2025/BS/2025_060119_shkufit/2025_060119_shkufit_,550,850,1400,.mp4.csmil/index_2_av.m3u8?null=0|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0&Cookie=_alid_%3DoUIldn0o6tdqmSjuHY7M1w%3D%3D
+
+#EXTINF:-1 tvg-id="2025" group-title="עידן++" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/2025.jpg",2025
+http://localhost:60666/?plugin://plugin.video.idanplus/?mode=5&url=ch_2025
 
 #EXTINF:0 group-title="Вэб Камеры" tvg-logo="http://iptv.israstyle.ru/logo/kotel1.jpg", Иерусалим Котель
 
@@ -85,5 +83,159 @@ https://videos3.earthcam.com/fecnetwork/7949.flv/chunklist_w1186353202.m3u8
 #EXTINF:0 group-title="Вэб Камеры" tvg-logo="http://iptv.israstyle.ru/logo/kotel1.jpg",  כתל מערבי  
 http://ca15.cast-tv.com:1935/23595_LIVE_Kotel_Live1/_definst_//23595_LIVE_Kotel_Live1/playlist.m3u8
 
-#EXTINF:0 Tel-Aviv 
+#EXTINF:0 group-title="Вэб Камеры" tvg-logo="http://iptv.israstyle.ru/logo/kotel1.jpg",  Tel-Aviv 
 https://edge01.balticlivecam.com/blc/Israel1/index.m3u8?token=f296960d8603913057289e502362016a:1547987827040
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="עידן+רדיו" tvg-logo="http://thumbs2.imagebam.com/7c/71/27/8d2446784877333.jpg" ,==== תחנות רדיו ====
+https://tinyurl.com/idan-guide
+
+#EXTINF:-1 tvg-id="bet" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/bet.png" ,כאן ב
+https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/kanbet_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
+
+#EXTINF:-1 tvg-id="gimel" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/gimel.png" ,כאן גימל
+https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/kangimmel_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="glglz" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/glglz.jpg" ,גלגל"צ
+http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+
+#EXTINF:-1 tvg-id="glz" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/glz.jpg" ,גלי צה"ל
+http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+
+#EXTINF:-1 tvg-id="88" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/88.png" ,כאן 88
+ https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/kan88_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="music" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/music.png" ,כאן קול המוסיקה
+https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/kanclassical_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+#EXTINF:-1 tvg-id="culture" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/culture.png" ,כאן תרבות
+https://kanlivep2event-i.akamaihd.net/hls/live/749634/749634/kantarbut_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/nos.png" ,כאן נוסטלגי
+https://kanlivep2event-i.akamaihd.net/hls/live/749630/749630/kannostalgia_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+
+#EXTINF:-1 tvg-id="" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/oriental.png" ,כאן ים תיכוני
+https://kanlivep2event-i.akamaihd.net/hls/live/749632/749632/kanyamtichoni_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1 tvg-id="reka" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/reka.png" ,כאן Reka
+https://kanlivep2event-i.akamaihd.net/hls/live/749633/749633/kanreka_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+
+#EXTINF:-1 tvg-id="makan" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/makan.png" ,כאן مكان
+https://kanlivep2event-i.akamaihd.net/hls/live/749628/749628/kanmakan_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+
+#EXTINF:-1 tvg-id="persian" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/persian.png" ,כאן فارسی
+https://kanlivep2event-i.akamaihd.net/hls/live/749631/749631/kanfarsi_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1 tvg-id="90fm" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/90fm.jpg" ,90FM רדיו תשעים
+http://90.cdnwz.net/90fm|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+#EXTINF:-1 tvg-id="99fm" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/99fm.png" ,ECO 99FM
+http://99.mediacast.co.il/99fm_aac|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="97fm" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/97fm.jpg" ,97FM רדיו דרום
+http://audio-darom.ecast.co.il:9000/darom97fm|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1 tvg-id="102fm" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/102fm.jpg" ,102FM רדיו תל אביב
+http://102.livecdn.biz/102fm_aac|User-Agent=Mozilla/5.0 (Windows NT 5.1; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1 tvg-id="103fm" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/103fm.png" ,103FM רדיו ללא הפסקה
+http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+
+#EXTINF:-1 tvg-id="100fm" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/100fm.jpg" ,100FM רדיוס
+http://100fm.streamgates.net:80/Radios100Fm|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+
+#EXTINF:-1 tvg-id="101fm" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/101fm.png" ,101FM רדיו ירושלים
+http://101.cdnwz.net/101fm|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="97fm" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/97fm.jpg" ,97FM רדיו דרום
+http://audio-darom.ecast.co.il:9000/darom97fm|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1 tvg-id="102fmEilat" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/102fmEilat.jpg" ,102FM רדיו קול הים האדום
+http://eilat.cdnwz.net/102fm|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+#EXTINF:-1 tvg-id="1045fm" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/1045fm.jpg" ,104.5FM רדיו צפון
+http://1045.cdnwz.net/1045fm|User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+
+#EXTINF:-1 tvg-id="1075fm" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/1075fm.jpg" ,107.5FM רדיו חיפה
+http://1075.livecdn.biz/radiohaifa|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="עידן+רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/mizrahit.png" ,קול הים התיכון
+http://www.rs.mizrahit.fm:7777/;|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+
+
+
+
+#EXTINF:-1 tvg-id="bet" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/bet.png" radio="true" ,כאן-ב
+https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/kanbet_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
+
+#EXTINF:-1 tvg-id="gimel" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/gimel.png" ,כאן-גימל
+https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/kangimmel_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="glglz" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/glglz.jpg" ,גלגלצ
+http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+
+#EXTINF:-1 tvg-id="glz" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/glz.jpg" ,גלי-צה"ל
+http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+
+#EXTINF:-1 tvg-id="88" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/88.png" ,כאן-88
+ https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/kan88_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="music" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/music.png" ,כאן-קול המוסיקה
+https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/kanclassical_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+#EXTINF:-1 tvg-id="culture" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/culture.png" ,כאן-תרבות
+https://kanlivep2event-i.akamaihd.net/hls/live/749634/749634/kantarbut_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/nos.png" ,כאן-נוסטלגי
+https://kanlivep2event-i.akamaihd.net/hls/live/749630/749630/kannostalgia_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+
+#EXTINF:-1 tvg-id="" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/oriental.png" ,כאן-ים תיכוני
+https://kanlivep2event-i.akamaihd.net/hls/live/749632/749632/kanyamtichoni_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1 tvg-id="reka" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/reka.png" ,כאן-Reka
+https://kanlivep2event-i.akamaihd.net/hls/live/749633/749633/kanreka_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+
+#EXTINF:-1 tvg-id="makan" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/makan.png" ,כאן-مكان
+https://kanlivep2event-i.akamaihd.net/hls/live/749628/749628/kanmakan_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+
+#EXTINF:-1 tvg-id="persian" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/persian.png" ,כאן-فارسی
+https://kanlivep2event-i.akamaihd.net/hls/live/749631/749631/kanfarsi_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1 tvg-id="90fm" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/90fm.jpg" ,90FM רדיו-תשעים
+http://90.cdnwz.net/90fm|User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+#EXTINF:-1 tvg-id="99fm" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/99fm.png" ,ECO-99FM
+http://99.mediacast.co.il/99fm_aac|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="97fm" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/97fm.jpg" ,97FM רדיו-דרום
+http://audio-darom.ecast.co.il:9000/darom97fm|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1 tvg-id="102fm" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/102fm.jpg" ,102FM רדיו-תל אביב
+http://102.livecdn.biz/102fm_aac|User-Agent=Mozilla/5.0 (Windows NT 5.1; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1 tvg-id="103fm" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/103fm.png" ,103FM רדיו-ללא הפסקה
+http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+
+#EXTINF:-1 tvg-id="100fm" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/100fm.jpg" ,100FM-רדיוס
+http://100fm.streamgates.net:80/Radios100Fm|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
+
+#EXTINF:-1 tvg-id="101fm" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/101fm.png" ,101FM רדיו-ירושלים
+http://101.cdnwz.net/101fm|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="97fm" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/97fm.jpg" ,97FM רדיו-דרום
+http://audio-darom.ecast.co.il:9000/darom97fm|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:40.0) Gecko/20100101 Firefox/40.0
+
+#EXTINF:-1 tvg-id="102fmEilat" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/102fmEilat.jpg" ,102FM רדיו-קול הים האדום
+http://eilat.cdnwz.net/102fm|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+#EXTINF:-1 tvg-id="1045fm" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/1045fm.jpg" ,104.5FM רדיו-צפון
+http://1045.cdnwz.net/1045fm|User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+
+#EXTINF:-1 tvg-id="1075fm" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/1075fm.jpg" ,107.5FM רדיו-חיפה
+http://1075.livecdn.biz/radiohaifa|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="עידן+ רדיו" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/mizrahit.png" ,קול-הים התיכון
+http://www.rs.mizrahit.fm:7777/;|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+
