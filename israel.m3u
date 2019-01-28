@@ -9,16 +9,14 @@ https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/chunklist_w1202104227_b14960
 
  
 #EXTINF:-1 tvg-id="11" tvg-name="כאן 11" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+",ch 11 כאן
-https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_4k/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_4k/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-name="12 קשת" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="עידן+",ch 12 קשת
 https://5b2d5fd1a710b.streamlock.net:44443/chan/smil:12cvd.smil/chunklist_w1216082077_b700000_tkdG9rZW5zdGFydHRpbWU9MTU0ODY3Nzc1OCZ0b2tlbmVuZHRpbWU9MTU0ODY4MTM1OCZ0b2tlbmhhc2g9U3lIdThpYmI0dGZmdUstN2VZU0tpT1d6eld4ZHZBYU1KdHlROXBaT3JzYz0=.m3u8
 
 #EXTINF:-1 tvg-id="13" tvg-name="13 רשת" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="עידן+",ch 13 רשת
-https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36&Referer=http://reshet.tv/live/
- 
-#EXTINF:-1 tvg-id="14" tvg-name="10 עשר" tvg-logo="http://thumbs2.imagebam.com/cc/c5/31/33479b784878593.jpg" group-title="עידן+",ch 14 רשת-עשר
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b2400000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+
  
 #EXTINF:-1 tvg-id="20" tvg-name="ערוץ 20" tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg" group-title="עידן+",ch 20 מורשת
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 5.1; rv:40.0) Gecko/20100101 Firefox/40.0
