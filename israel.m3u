@@ -21,16 +21,16 @@ http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/pla
 
  
 #EXTINF:-1 tvg-id="20" tvg-name="ערוץ 20" tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg" group-title="TV-Israel",ch 20 מורשת
-http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 5.1; rv:40.0) Gecko/20100101 Firefox/40.0
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
 
 #EXTINF:-1 tvg-id="21" tvg-name="21 ערוץ הקניות" tvg-logo="http://thumbs2.imagebam.com/01/9b/25/afe543833363533.jpg" group-title="TV-Israel",ch 21 ערוץ הקניות
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?ttl=1524643697&cdn_token=5a6c4f1270440ae72118c8ae16c58de4|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18
 
 #EXTINF:-1 tvg-id="23" tvg-name="23 החינוכית" tvg-logo="https://storage.googleapis.com/openscreenshot/7/_/1/H1WUfc1_7.png" group-title="TV-Israel",ch 23 החינוכית
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_4k/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="http://thumbs2.imagebam.com/ec/75/53/eb02a3784877443.jpg" group-title="TV-Israel",ch 24
-http://localhost:60666/?plugin://plugin.video.idanplus/?mode=5&url=ch_24
+#EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="http://thumbs2.imagebam.com/ec/75/53/eb02a3784877443.jpg" group-title="TV-Israel",24 ערוץ המוזיקה
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
 #EXTINF:-1 tvg-id="26" tvg-name="26" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/bb.jpg" group-title="TV-Israel",ch 26 האח הגדול
 https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/chunklist_b3682304.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36&Referer=https://reshet.tv/home/bb-livestream/
@@ -39,7 +39,7 @@ https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/chunklist_b
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_4k/chunklist.m3u8|User-Agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)
 
 #EXTINF:-1 tvg-id="99" tvg-name="99 ערוץ הכנסת" tvg-logo="http://thumbs2.imagebam.com/83/d6/c4/66b29e784878143.jpg" group-title="TV-Israel",ch 99 הכנסת
-https://w1.013.gostreaming.tv/Knesset/myStream/chunklist_w618391750.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ynet Live" tvg-logo="special://home/addons/plugin.video.idanplus/resources/images/ynet.jpg" group-title="TV-Israel", Ynet Live
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0
@@ -47,8 +47,9 @@ https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on|U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/a0/fd/e23f51784878413.jpg" group-title="TV-Israel",ch חברת החדשות חי  
 http://ch2live-i.akamaihd.net/hls/live/252343/hls1_44_1496/chunklist.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/a0/fd/e23f51784878413.jpg" group-title="TV-Israel",ch ערוץ החדשות 
-http://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/neveilan02/chunklist_b1908736.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36&Referer=http://reshet.tv/home/live-news/
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 
 #EXTINF:0 group-title="TV-Israel" tvg-logo="http://iptv.israstyle.ru/logo/7heb.jpg",ערוץ קבלה (יעברית)
 http://edge1.il.kab.tv/rtplive/tv66-heb-medium.stream/chunklist_w1815442055.m3u8 
