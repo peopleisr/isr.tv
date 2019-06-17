@@ -1,8 +1,7 @@
 
 #EXTM3U 
 #EXTINF:-1 tvg-id="Channel9.il" tvg-name="Channel9.il" group-title="TV-Israel" tvg-logo="http://iptv.israstyle.ru/logo/9.jpg",9-Израиль+
-http://198.16.64.45:8081/9_izrail/index.m3u8?wmsAuthSign=1560746975S61ec221e6c6dc918b9fcfdd16cd48761S08h971h75h312
-
+http://198.16.64.45:8081/9_izrail/index.m3u8?wmsAuthSign=1560749060Sc463de46115611fba9526c00e98615c0S08h971h75h312
 #EXTINF:-1 tvg-id="ILand" tvg-name="ILand" group-title="TV-Israel" tvg-logo="https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s100-c-k-no/photo.jpg",ILand
 https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/chunklist_w1202104227_b1496000.m3u8
  
