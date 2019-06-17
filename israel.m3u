@@ -1,21 +1,16 @@
 
 #EXTM3U 
 #EXTINF:-1 tvg-id="Channel9.il" tvg-name="Channel9.il" group-title="TV-Israel" tvg-logo="http://iptv.israstyle.ru/logo/9.jpg",9-Израиль+
-http://198.16.64.45:8081/9_izrail/index.m3u8?wmsAuthSign=1558916154S831499878796979f96feb58ee88aed77S08h971h75h312
-
+http://198.16.64.45:8081/9_izrail/index.m3u8?wmsAuthSign=1560746975S61ec221e6c6dc918b9fcfdd16cd48761S08h971h75h312
 
 #EXTINF:-1 tvg-id="ILand" tvg-name="ILand" group-title="TV-Israel" tvg-logo="https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s100-c-k-no/photo.jpg",ILand
 https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/chunklist_w1202104227_b1496000.m3u8
-
-
  
 #EXTINF:-1 tvg-id="11" tvg-name="כאן 11" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="TV-Israel",ch 11 כאן
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_4k/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-name="12 קשת" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="TV-Israel",ch 12 קשת
-
-https://5b2d5fd1a710b.streamlock.net:44443/chan/smil:12cvd.smil/chunklist_w223237997_b700000_tkdG9rZW5zdGFydHRpbWU9MTU0ODY3Nzg5NiZ0b2tlbmVuZHRpbWU9MTU0ODY4MTQ5NiZ0b2tlbmhhc2g9ZlJVdG9jWHFqZHp4UUl6Znp0SGs3ZFRuT3hGeVJ5TTh3enhsUDlnd0JjVT0=.m3u8
-
+http://qipo.live:8080/1MX084zfc9/T1TVpRl10e/209654
 
 #EXTINF:-1 tvg-id="13" tvg-name="13 רשת" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="TV-Israel",ch 13 רשת
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
